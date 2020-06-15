@@ -1,0 +1,14 @@
+﻿/*reset*/
+ul,li,ol{list-style:none;}
+*{margin:0;padding:0;box-sizing:border-box;}
+
+
+/*home*/
+#scHome,.home{width:414px; background:#F5EEDE; margin:auto;}
+#scWrap{position:relative;}
+header{height:195px;}
+.fusion-logo a img{}
+h1{text-align:center;}
+#side-header .fusion-logo, .fusion-header .fusion-logo img{width:182px; }
+.fusion-header-has-flyout-menu .fusion-flyout-menu-icons .fusion-toggle-icon-line{background-color:#94877D; width:28px; height:4px; border-radius:15px; }
+nav{position:absolute; height:100%; width:248px; background:#EDECE8; display:none;}
